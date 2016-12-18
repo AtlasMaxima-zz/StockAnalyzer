@@ -62,8 +62,10 @@ Thus, in order to graph and display the graph, you can select the range of days 
 
 <b>Click on the image/screen viewer to view the entire video at regular speed.</b>
 
-<a href="https://www.youtube.com/watch?v=o9JkgH6pPJE&feature=youtu.be" target="_blank"><img src="./StockAnalyzer/assets/StockAnalyzer.gif"
-alt="Stock Analyzer V.1 Demo" width="300" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=o9JkgH6pPJE&feature=youtu.be" target="_blank">
+ <img src="http://i.imgur.com/D6gTWai.gif" title="source: imgur.com"/>
+</a>
+
 
 ### How does the graph works
 
