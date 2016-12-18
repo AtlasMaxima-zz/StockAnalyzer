@@ -2,7 +2,7 @@ from setuptools import setup
 
 APP = ['GUI.py']
 OPTIONS = {
-    'argv_emulation': True,
+    'argv_emulation': False,
     'iconfile': 'stockIcon.icns'}
 DATA_FILES = [('', ['assets'])]
 
