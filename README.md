@@ -27,8 +27,14 @@ version also supports histogram graph(s) for each stock ticker symbol. The histo
 The application has already been packaged and bundled in an app format.
 
 1. Download the zip file
-2. Go to dist and click on the GUI.app or you can simply drag the dist folder out to your
-desktop and then open the folder, and GUI.app icon should be there to run the app.
+2. Go to dist and click on the GUI.app or you can simply drag the dist folder out to your desktop and then open the folder, and GUI.app icon should be there to run the app.
+
+However, if that doesn't work. Manually download with the following steps:
+
+1. Download the zip file
+2. Open up terminal and ownload all necessary Python dependencies 
+3. Direct into the absolute path using Mac command cd stockanalyzer/stockanalyzer 
+4. Run python GUI.py 
 
 ## How to use the program
 
