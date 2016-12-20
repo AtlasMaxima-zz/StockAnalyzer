@@ -32,7 +32,7 @@ The application has already been packaged and bundled in an app format.
 However, if that doesn't work. Manually download with the following steps:
 
 1. Download the zip file
-2. Open up terminal and ownload all necessary Python dependencies 
+2. Open up terminal and download all necessary Python dependencies 
 3. Direct into the absolute path using Mac command cd stockanalyzer/stockanalyzer 
 4. Run python GUI.py 
 
